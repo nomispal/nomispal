@@ -61,6 +61,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nomispal/Nomispal/output/snake.svg" alt="Snake animation" />
 
 ###
