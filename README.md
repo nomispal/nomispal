@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">A Mobile App Developer based in Pakistan, specializing in Flutter and Java (Android). I create seamless, high-quality apps that bring ideas to life on both iOS and Android! 🚀📱"<br>- 📚 Currently an Engineering undergrad at Information Technology University<br>- ⚡ I’m looking to collaborate on Flutter Projects<br>- 🌐 How to reach me naumansaeedpal@gmail.com </p>
+<p align="left">A Mobile App Developer based in Pakistan, specializing in Flutter and Java (Android). I create seamless, high-quality apps that bring ideas to life on both iOS and Android! 🚀📱"<br>- 📚 Currently an Engineering undergrad at ITU<br>- ⚡ I’m looking to collaborate on Flutter Projects<br>- 🌐 How to reach me naumansaeedpal@gmail.com </p>
 
 ###
 
