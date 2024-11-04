@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Nouman Saeed Pal</h1>
+<h1 align="center">Hi 👋, I'm Noman Saeed Pal</h1>
 
 ###
 
