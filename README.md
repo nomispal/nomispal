@@ -14,7 +14,7 @@
 <p align="left">
     I focus on building practical, high-quality mobile applications that solve real problems and deliver great user experiences.
     <br>- 🎓 Currently an Engineering undergrad at <a href="https://itu.edu.pk/">ITU</a>
-    <br>- ⚡ I’m looking to collaborate on Flutter Projects
+    <br>- ⚡ I am looking to collaborate on Flutter Projects
     <br>- 🌐 How to reach me <a href="mailto:naumansaeedpal@gmail.com">naumansaeedpal@gmail.com</a>
 </p>
 
