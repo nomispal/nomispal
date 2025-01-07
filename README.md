@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Doctor Appointment App**
 
--🎓 Currently an Engineering undergrad at <a href="https://itu.edu.pk/">ITU</a> 
+- 🎓 Currently an Engineering undergrad at <a href="https://itu.edu.pk/">ITU</a> 
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
