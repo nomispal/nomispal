@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noman Saeed Pal</h1>
 <h3 align="center">I focus on building practical, high-quality mobile applications that solve real problems and deliver great user experiences.</h3>
 
-- 🔭 I’m currently working on **Doctor Appointment App**
-
 - 🎓 Currently an Engineering undergrad at <a href="https://itu.edu.pk/">ITU</a> 
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
