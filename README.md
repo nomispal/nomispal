@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noman Saeed Pal</h1>
 <h3 align="center">I focus on building practical, high-quality mobile applications that solve real problems and deliver great user experiences.</h3>
 
-- 🎓 Currently an Engineering undergrad at <a href="https://itu.edu.pk/">ITU</a> 
-
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 📫 How to reach me **naumansaeedpal@gmail.com**
+
+- 🎓 Currently an Engineering undergrad at <a href="https://itu.edu.pk/">ITU</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
