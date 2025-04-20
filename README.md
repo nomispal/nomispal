@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **naumansaeedpal@gmail.com**
 
-- 🎓 Currently an Engineering undergrad at <a href="https://itu.edu.pk/">ITU</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
