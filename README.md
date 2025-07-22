@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noman Saeed Pal</h1>
-<h3 align="center">I focus on building practical, high-quality mobile applications that solve real problems and deliver great user experiences.</h3>
+<h3 align="center">I focus on building practical, high-quality MVPs that solve real problems and deliver great user experiences.</h3>
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
