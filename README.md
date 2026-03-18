@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 I build mobile apps that don’t just look good — they solve real problems & scale.
+  🚀 I build products that don’t just look good, they solve real problems & scale.
 </p>
 
 ---
