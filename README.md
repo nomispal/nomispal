@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noman Saeed Pal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Mobile+App+Developer;MVP+Builder+for+Startups;Turning+Ideas+Into+Real+Products;Android+%7C+iOS+%7C+AI+Apps&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Flutter+Mobile+App+Developer;MVP+Builder+for+Startups;Turning+Ideas+Into+Real+Products;Android+%7C+iOS+%7C+AI+Apps&center=true&width=500&height=50">
 </p>
 
 <p align="center">
@@ -35,14 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomispal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomispal&theme=tokyonight" />
-</p>
-
----
-
 ### 🌍 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/nomispal/" target="blank">
@@ -59,8 +51,8 @@
 ---
 
 ### 💡 Current Focus
-- 🚀 Building real-world MVPs  
-- 🤖 Exploring AI-powered mobile apps  
+- 🚀 Building real world MVPs  
+- 🤖 Exploring AI powered mobile apps  
 - ⚡ Optimizing Flutter performance  
 
 ---
