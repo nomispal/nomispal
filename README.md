@@ -1,76 +1,84 @@
 <h1 align="center">Hi 👋, I'm Noman Saeed Pal</h1>
-<h3 align="center">🚀 Flutter Mobile App Developer | MVP Builder | Turning Ideas into Real Products</h3>
 
 <p align="center">
-I build practical, high-quality mobile apps that solve real problems — not just look good.
-From idea → design → development → launch, I focus on delivering products users actually use.
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Mobile+App+Developer;MVP+Builder+for+Startups;Turning+Ideas+Into+Real+Products;Android+%7C+iOS+%7C+AI+Apps&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  🚀 I build mobile apps that don’t just look good — they solve real problems & scale.
 </p>
 
 ---
 
-### 💡 What I Do
-- 📱 Build **Flutter Mobile Apps (Android & iOS)**
-- ⚡ Develop **fast MVPs for startups & ideas**
-- 🎯 Focus on **real-world usability + clean UI/UX**
-- 🔧 Work with **Firebase, APIs, Backend Integration**
-- 🚀 Help turn concepts into **launch-ready products**
+### 🧠 About Me
+- 📱 Flutter Developer (Android & iOS)
+- ⚡ Specialized in **fast MVP development**
+- 🎯 Focused on **real-world usability + clean UI/UX**
+- 🔥 Turning ideas into **launch-ready products**
+- 🤝 Open to **startups & serious collaborations**
 
 ---
 
-### 🤝 Open to Collaborate On
-- Flutter App Development Projects  
-- Startup MVPs  
-- Location-based / Social / AI-based Apps  
-
----
-
-### 📬 Reach Me
-- 📧 **naumansaeedpal@gmail.com**
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/nomispal/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/nomispal" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/nomispalll" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
+### 🚀 What I Bring
+✔️ Clean, scalable Flutter architecture  
+✔️ Fast MVP delivery (idea → launch)  
+✔️ Firebase + APIs + Backend integration  
+✔️ Smooth UI/UX with performance focus  
+✔️ Real product thinking (not just coding)
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="left"> 
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,java,js,nodejs,mysql,postgres,git" />
 </p>
 
 ---
 
-### ⚡ My Approach
-> Build fast. Keep it simple. Focus on what actually matters.
-
-I don’t just code apps — I help shape ideas into products that people can use, test, and scale.
-
----
-
-### 🚀 Current Focus
-- Improving **Flutter performance & scalability**
-- Building **real-world MVPs**
-- Exploring **AI-powered mobile apps**
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nomispalll&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomispalll&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *If you have an idea or project, let’s build something impactful together.*
+### 🌍 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/nomispal/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://instagram.com/nomispal" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+<a href="https://www.leetcode.com/nomispalll" target="blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="40"/>
+</a>
+</p>
+
+---
+
+### 💡 Current Focus
+- 🚀 Building real-world MVPs  
+- 🤖 Exploring AI-powered mobile apps  
+- ⚡ Optimizing Flutter performance  
+
+---
+
+### 📫 Contact Me
+<p align="center">
+  <b>📧 naumansaeedpal@gmail.com</b>
+</p>
+
+---
+
+### ⚡ Philosophy
+<p align="center">
+  <i>"Build fast. Keep it simple. Focus on what actually matters."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
