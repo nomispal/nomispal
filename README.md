@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/nomispal">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&height=50&lines=Full+Stack+Software+Engineer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Flutter+%7C+Node.js;Web+%2B+Mobile+%2B+Backend+%2B+Cloud;Building+Scalable+Products+That+Matter;MVP+Builder+for+Startups+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&height=50&lines=Building+Scalable+Products+That+Matter;MVP+Builder+for+Startups+%F0%9F%92%BB;React+%7C+Next.js+%7C+Flutter+%7C+Node.js;Web+%2B+Mobile+%2B+Backend+%2B+Cloud+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
