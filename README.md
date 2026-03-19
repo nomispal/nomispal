@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Noman%20Saeed%20Pal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%7C%20Backend&descSize=18&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Noman%20Saeed%20Pal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Web%20%7C%20Mobile%20%7C%20Backend&descSize=18&descAlignY=55&descAlign=50"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/nomispal">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+Node.js+%7C+Backend+Engineer;Building+Scalable+Products+That+Matter;MVP+Builder+for+Startups+%F0%9F%9A%80;Mobile+%2B+Backend+%2B+APIs+%2B+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&height=50&lines=Full+Stack+Software+Engineer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Flutter+%7C+Node.js;Web+%2B+Mobile+%2B+Backend+%2B+Cloud;Building+Scalable+Products+That+Matter;MVP+Builder+for+Startups+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,12 +26,13 @@
 
 ```yaml
 name: Noman Saeed Pal
-role: Full Stack Developer
-focus: [Mobile Apps, Backend Systems, APIs]
+role: Full Stack Software Engineer
+focus: [Web Apps, Mobile Apps, Backend Systems, APIs]
 currently_building: Real-World MVPs & Scalable Products
 open_for: Startups & Serious Collaborations
 ```
 
+- 🌐 **Web** — React, Next.js, Tailwind CSS
 - 📱 **Mobile** — Flutter (Android & iOS)
 - ⚙️ **Backend** — Node.js, Express, REST & GraphQL APIs
 - ☁️ **Cloud** — Firebase, AWS, Serverless
@@ -46,7 +47,17 @@ open_for: Startups & Serious Collaborations
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+**🌐 Web**
+
+React & Next.js\
+Tailwind CSS\
+SSR & SSG\
+Responsive Design
+
+</td>
+<td align="center" width="25%">
 
 **📱 Mobile**
 
@@ -56,7 +67,7 @@ Clean UI/UX\
 State Management
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **⚙️ Backend**
 
@@ -66,7 +77,7 @@ Authentication & Security\
 Database Design
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **☁️ DevOps & Cloud**
 
@@ -85,17 +96,17 @@ Serverless Architecture
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,js,ts,python,java&theme=dark" alt="Languages & Frameworks"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dart,js,ts,html,css&theme=dark" alt="Frontend & Mobile"/>
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,aws,docker,postgres,mysql,mongodb,redis,graphql&theme=dark" alt="Backend & Cloud"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,firebase,aws,docker,graphql&theme=dark" alt="Backend & Cloud"/>
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,androidstudio,gradle&theme=dark" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,vscode,figma,linux,postman&theme=dark" alt="Databases & Tools"/>
   </a>
 </p>
 
@@ -146,6 +157,7 @@ Serverless Architecture
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Building-Real_World_MVPs-38bdf8?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🌐_Shipping-Next.js_Web_Apps-38bdf8?style=for-the-badge&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/🤖_Exploring-AI_Powered_Apps-38bdf8?style=for-the-badge&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/⚡_Scaling-Backend_Systems-38bdf8?style=for-the-badge&labelColor=0d1117"/>
 </p>
