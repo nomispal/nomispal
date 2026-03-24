@@ -112,43 +112,10 @@ Serverless Architecture
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomispal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=a8b2d1&ring_color=38bdf8" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nomispal&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=a8b2d1&dates=a8b2d1" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomispal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=a8b2d1&langs_count=8" width="40%" alt="Top Languages"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nomispal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nomispal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8" width="98%" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nomispal/nomispal/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nomispal/nomispal/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nomispal/nomispal/output/github-snake-dark.svg" />
-  </picture>
 </p>
 
 ---
@@ -187,10 +154,4 @@ Serverless Architecture
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20fast.%20Keep%20it%20simple.%20Focus%20on%20what%20actually%20matters.&author=Noman%20Saeed%20Pal" alt="Quote"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
