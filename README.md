@@ -1,157 +1,99 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Noman%20Saeed%20Pal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Web%20%7C%20Mobile%20%7C%20Backend&descSize=18&descAlignY=55&descAlign=50"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/nomispal">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&height=50&lines=Building+Scalable+Products+That+Matter;MVP+Builder+for+Startups+%F0%9F%92%BB;React+%7C+Next.js+%7C+Flutter+%7C+Node.js;Web+%2B+Mobile+%2B+Backend+%2B+Cloud+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+# Nauman Saeed
+### Full Stack Engineer · Flutter · Next.js · Firebase
 
-<p align="center">
-  <a href="https://github.com/nomispal?tab=followers">
-    <img src="https://img.shields.io/github/followers/nomispal?label=Followers&style=for-the-badge&logo=github&color=0d1117&labelColor=1a1b27" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/nomispal">
-    <img src="https://img.shields.io/github/stars/nomispal?label=Stars&style=for-the-badge&logo=github&color=0d1117&labelColor=1a1b27" alt="GitHub Stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nomispal&style=for-the-badge&color=0d1117&labelColor=1a1b27" alt="Profile Views"/>
-</p>
+**Top Rated Freelancer on Upwork** — building production-ready mobile & web apps for international clients
+
+[![Email](https://img.shields.io/badge/naumansaeedpal@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:naumansaeedpal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/nomispal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nomispal)
+[![Upwork](https://img.shields.io/badge/Top_Rated-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com)
+[![Phone](https://img.shields.io/badge/+92_317_464_7551-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+923174647551)
+
+</div>
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/nomispal/nomispal/main/assets/coding.gif" width="320" alt="coding gif"/>
+## About
 
-### 🧠 About Me
+Engineering graduate (ITU Lahore, 2026) with real production experience — not just side projects. I've shipped cross-platform apps used by real clients, managed 30+ location operations, and led MVP development end-to-end as the sole engineer.
 
-```yaml
-name: Noman Saeed Pal
-role: Full Stack Software Engineer
-focus: [Web Apps, Mobile Apps, Backend Systems, APIs]
-currently_building: Real-World MVPs & Scalable Products
-open_for: Startups & Serious Collaborations
-```
+I work across the full stack: **Flutter** for mobile, **Next.js/React** for web, **Firebase + Node.js** for backend. Strong in DSA, REST APIs, auth systems, and cloud architecture. Clean code, fast delivery, no hand-holding needed.
 
-- 🌐 **Web** — React, Next.js, Tailwind CSS
-- 📱 **Mobile** — Flutter (Android & iOS)
-- ⚙️ **Backend** — Node.js, Express, REST & GraphQL APIs
-- ☁️ **Cloud** — Firebase, AWS, Serverless
-- 🗄️ **Databases** — PostgreSQL, MySQL, MongoDB
-- ⚡ **Superpower** — Turning ideas into launch-ready products, fast
-
-<br clear="both"/>
+Currently open to **full-time roles** and **serious freelance projects**.
 
 ---
 
-### 🚀 What I Bring to the Table
+## Featured Work
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
+### [Elio Care](https://elio.care) — Construction Marketplace
+> *Flutter · Next.js · Firebase · Node.js · Square Payments · Cloud Functions*
 
-**🌐 Web**
+Non-profit platform connecting homeowners, contractors, and vendors. Led end-to-end MVP as the primary engineer.
 
-React & Next.js\
-Tailwind CSS\
-SSR & SSG\
-Responsive Design
+- Contractor bidding system with real-time project tracking
+- Milestone-based payments via Square API
+- In-app messaging + push notifications
+- Cross-platform: iOS, Android, and Web
 
-</td>
-<td align="center" width="25%">
-
-**📱 Mobile**
-
-Flutter & Dart\
-Android & iOS\
-Clean UI/UX\
-State Management
-
-</td>
-<td align="center" width="25%">
-
-**⚙️ Backend**
-
-Node.js & Express\
-REST & GraphQL APIs\
-Authentication & Security\
-Database Design
-
-</td>
-<td align="center" width="25%">
-
-**☁️ DevOps & Cloud**
-
-Firebase & AWS\
-CI/CD Pipelines\
-Docker & Deployment\
-Serverless Architecture
-
-</td>
-</tr>
-</table>
+**→ Live at [elio.care](https://elio.care)**
 
 ---
 
-### 🛠️ Tech Stack
+### [Timely](https://github.com/nomispal/timely) — Property & Task Management
+> *Flutter · Firebase · Google API*
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dart,js,ts,html,css&theme=dark" alt="Frontend & Mobile"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,firebase,aws,docker,graphql&theme=dark" alt="Backend & Cloud"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,vscode,figma,linux,postman&theme=dark" alt="Databases & Tools"/>
-  </a>
-</p>
+Built for a client managing **30+ locations across the UK** — replaced spreadsheets with a unified operations platform.
+
+- One-time & recurring task scheduling
+- Custom notifications + advanced filtering
+- Print/export workflows
+- Real-time sync across teams
+
+**→ [github.com/nomispal/timely](https://github.com/nomispal/timely)**
 
 ---
 
-### 📈 Contribution Graph
+### [MediVisit](https://github.com/nomispal/MediVisit) — Clinical Appointment System
+> *Flutter · Firebase · Google API*
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nomispal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8" width="98%" alt="Contribution Graph"/>
-</p>
+End-to-end mobile solution for doctor-patient appointment management.
 
----
+- Real-time booking with calendar integration
+- Doctor profiles + automated reminders
+- Admin panel for clinic management
+- Auth, roles, and patient history
 
-### 💡 Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Building-Real_World_MVPs-38bdf8?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🌐_Shipping-Next.js_Web_Apps-38bdf8?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🤖_Exploring-AI_Powered_Apps-38bdf8?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/⚡_Scaling-Backend_Systems-38bdf8?style=for-the-badge&labelColor=0d1117"/>
-</p>
+**→ [github.com/nomispal/MediVisit](https://github.com/nomispal/MediVisit)**
 
 ---
 
-### 🌍 Connect With Me
+## Stack
 
-<p align="center">
-  <a href="https://linkedin.com/in/nomispal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/nomispal">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.leetcode.com/nomispalll">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:naumansaeedpal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+| Layer | Technologies |
+|---|---|
+| **Mobile** | Flutter, Dart |
+| **Frontend** | React, Next.js, HTML, CSS, TypeScript, JavaScript |
+| **Backend** | Node.js, RESTful APIs, Firebase Cloud Functions |
+| **Databases** | Firestore, Firebase, PostgreSQL, MySQL, MongoDB |
+| **Cloud & Auth** | Firebase, Google APIs, Square Payments |
+| **Languages** | Python, Java, Dart, TypeScript |
+| **Tools** | Git, GitHub, Slack, Postman |
 
 ---
 
-### ⚡ Philosophy
+## What I Bring
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20fast.%20Keep%20it%20simple.%20Focus%20on%20what%20actually%20matters.&author=Noman%20Saeed%20Pal" alt="Quote"/>
-</p>
+**I ship.** Not prototypes — production apps. Elio went from zero to live marketplace. Timely replaced manual operations for a multi-location UK business. MediVisit handles real clinical workflows.
+
+If you're a **startup** that needs a reliable engineer who can own features end-to-end, a **recruiter** looking for someone with real-world Flutter/Next.js experience, or a **client** who needs quality work done fast — let's talk.
+
+📧 **[naumansaeedpal@gmail.com](mailto:naumansaeedpal@gmail.com)**
+
+---
+
+<div align="center">
+
+*B.Sc. Electrical Engineering · Information Technology University, Lahore · 2022–2026*
+
+</div>
