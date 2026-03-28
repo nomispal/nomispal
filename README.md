@@ -3,12 +3,13 @@
 # Nauman Saeed
 ### Full Stack Software Engineer · Flutter · Next.js · Backend · Scalable Architecture
 
-**Top Rated Freelancer on Upwork** — building production-ready mobile & web apps for international clients
+**Full Stack Engineer · Open to Work**
 
-[![Email](https://img.shields.io/badge/naumansaeedpal@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:naumansaeedpal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/nomispal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nomispal)
-[![Upwork](https://img.shields.io/badge/Top_Rated-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com)
-[![Phone](https://img.shields.io/badge/+92_317_464_7551-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+923174647551)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nomispal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nomispal)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0154c0261a5ea8c094)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/nomispalll)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:naumansaeedpal@gmail.com)
 
 </div>
 
@@ -16,7 +17,7 @@
 
 ## About
 
-Engineering graduate with real production experience, not just side projects. I've shipped cross-platform apps used by real clients, managed 30+ location operations, and led MVP development end-to-end as the sole engineer.
+Engineering graduate with real production experience, not just side projects. I've shipped cross-platform apps that are been used by real clients, used to manage 30+ location operations, and led MVP development end-to-end as the sole engineer.
 
 I work across the full stack: **Flutter** for mobile, **Next.js/React** for web, **Firebase + Node.js** for backend. Strong in DSA, REST APIs, auth systems, and cloud architecture. Clean code, fast delivery, no hand-holding needed.
 
@@ -26,7 +27,8 @@ Currently open to **full-time roles** and **serious freelance projects**.
 
 ## Featured Work
 
-### [Elio Care](https://elio.care) — Construction Marketplace
+### Elio Care — Construction Marketplace
+
 > *Flutter · Next.js · Firebase · Node.js · Square Payments · Cloud Functions*
 
 Non-profit platform connecting homeowners, contractors, and vendors. Led end-to-end MVP as the primary engineer.
@@ -41,6 +43,7 @@ Non-profit platform connecting homeowners, contractors, and vendors. Led end-to-
 ---
 
 ### [Timely](https://github.com/nomispal/timely) — Property & Task Management
+
 > *Flutter · Firebase · Google API*
 
 Built for a client managing **30+ locations across the UK** — replaced spreadsheets with a unified operations platform.
@@ -55,6 +58,7 @@ Built for a client managing **30+ locations across the UK** — replaced spreads
 ---
 
 ### [MediVisit](https://github.com/nomispal/MediVisit) — Clinical Appointment System
+
 > *Flutter · Firebase · Google API*
 
 End-to-end mobile solution for doctor-patient appointment management.
@@ -94,6 +98,6 @@ If you're a **startup** that needs a reliable engineer who can own features end-
 
 <div align="center">
 
-*B.Sc. Electrical Engineering · Information Technology University, Lahore · 2022–2026*
+*The best code I write isn't in a repo, it's running in production.*
 
 </div>
