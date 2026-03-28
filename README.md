@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nauman Saeed
-### Full Stack Engineer · Flutter · Next.js · Firebase
+### Full Stack Software Engineer · Flutter · Next.js · Backend · Scalable Architecture
 
 **Top Rated Freelancer on Upwork** — building production-ready mobile & web apps for international clients
 
@@ -16,7 +16,7 @@
 
 ## About
 
-Engineering graduate (ITU Lahore, 2026) with real production experience — not just side projects. I've shipped cross-platform apps used by real clients, managed 30+ location operations, and led MVP development end-to-end as the sole engineer.
+Engineering graduate with real production experience, not just side projects. I've shipped cross-platform apps used by real clients, managed 30+ location operations, and led MVP development end-to-end as the sole engineer.
 
 I work across the full stack: **Flutter** for mobile, **Next.js/React** for web, **Firebase + Node.js** for backend. Strong in DSA, REST APIs, auth systems, and cloud architecture. Clean code, fast delivery, no hand-holding needed.
 
@@ -72,11 +72,11 @@ End-to-end mobile solution for doctor-patient appointment management.
 
 | Layer | Technologies |
 |---|---|
-| **Mobile** | Flutter, Dart |
+| **Mobile** | Flutter, Dart, Java |
 | **Frontend** | React, Next.js, HTML, CSS, TypeScript, JavaScript |
 | **Backend** | Node.js, RESTful APIs, Firebase Cloud Functions |
 | **Databases** | Firestore, Firebase, PostgreSQL, MySQL, MongoDB |
-| **Cloud & Auth** | Firebase, Google APIs, Square Payments |
+| **Cloud & Auth** | Firebase, Google APIs, Square Payments, Stripe |
 | **Languages** | Python, Java, Dart, TypeScript |
 | **Tools** | Git, GitHub, Slack, Postman |
 
