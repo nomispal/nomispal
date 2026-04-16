@@ -14,7 +14,7 @@
 
 ---
 
-Engineering grad shipping **production apps** — not side projects. Led MVPs end-to-end, built tools running real business operations, and work confidently across mobile, web, and backend.
+Engineering grad shipping **production apps**, not side projects. Led MVPs end-to-end, built tools running real business operations, and work confidently across mobile, web, and backend.
 
 ## Featured Work
 
@@ -37,6 +37,6 @@ Engineering grad shipping **production apps** — not side projects. Led MVPs en
 
 📧 **[naumansaeedpal@gmail.com](mailto:naumansaeedpal@gmail.com)**
 
-*The best code I write isn't in a repo — it's running in production.*
+*The best code I write isn't in a repo, it's running in production.*
 
 </div>
