@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2&center=true&width=620&lines=Full+Stack+Engineer;Flutter+%C2%B7+Next.js+%C2%B7+Node.js;Shipping+production+apps%2C+not+side+projects" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2&center=true&width=800&lines=Full+Stack+Engineer;Flutter+%C2%B7+Next.js+%C2%B7+Node.js;Shipping+production+apps,+not+side+projects" alt="typing banner" />
 
 # Nauman Saeed
 
