@@ -20,7 +20,7 @@ Engineering grad shipping **production apps**, not side projects. Led MVPs end-t
 ## 🚀 Featured Work
 
 **[Elio Care](https://eliocareorg.cloud/)** — Construction marketplace connecting homeowners, contractors, and vendors. Sole engineer on MVP: contractor bidding, milestone payments via Square, in-app messaging, iOS/Android/Web.
-`Flutter · Next.js · Firebase · Node.js · Square`
+`Flutter · Node.js · Next.js · Firebase · Node.js · Square`
 
 **[Timely](https://github.com/nomispal/timely)** — Property & task management replacing spreadsheets for a UK client running **30+ locations**. Recurring tasks, filtering, real-time team sync.
 `Flutter · Firebase · Google API`
